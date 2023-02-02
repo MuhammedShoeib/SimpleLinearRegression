@@ -1,2 +1,2 @@
 # SimpleLinearRegression
-A Simple Linear Regression model for prediction tha target for one feature
+A Simple Linear Regression model for prediction the target for one feature
